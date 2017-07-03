@@ -1,4 +1,4 @@
-#Files in this repo  
+## Files in this repo  
 README.md – This is the README.md  
 ExerciseProject.Rmd - R markdown file   
 ExerciseProject.html- html output  

@@ -1,6 +1,6 @@
 ## Files in this repo  
-README.md – This is the README.md  
-ExerciseProject.Rmd - R markdown file   
+
+ExerciseProject.Rmd - R markdown file with code for analysis done 
 ExerciseProject.html- html output  
 
  
